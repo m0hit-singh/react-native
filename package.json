@@ -1,11 +1,15 @@
 {
   "main": "node_modules/expo/AppEntry.js",
+  "homepage": "https://m0hit-singh.github.io/react-native",
   "scripts": {
+    "build": "expo build:web",
     "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web",
-    "eject": "expo eject"
+    "eject": "expo eject",
+    "predeploy": "npm run build",
+    "deploy": "npx gh-pages -d web-build"
   },
   "dependencies": {
     "expo": "~37.0.3",
