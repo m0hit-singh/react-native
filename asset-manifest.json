@@ -1,0 +1,33 @@
+{
+  "files": {
+    "app.js": "/react-native/static/js/app.854cd369.chunk.js",
+    "app.js.map": "/react-native/static/js/app.854cd369.chunk.js.map",
+    "runtime~app.js": "/react-native/static/js/runtime~app.2826e25f.js",
+    "runtime~app.js.map": "/react-native/static/js/runtime~app.2826e25f.js.map",
+    "static/js/2.b89ce3fe.chunk.js": "/react-native/static/js/2.b89ce3fe.chunk.js",
+    "static/js/2.b89ce3fe.chunk.js.map": "/react-native/static/js/2.b89ce3fe.chunk.js.map",
+    "fonts/AntDesign.ttf": "/react-native/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/react-native/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/react-native/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/react-native/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/react-native/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/react-native/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Fontisto.ttf": "/react-native/./fonts/Fontisto.ttf",
+    "fonts/Foundation.ttf": "/react-native/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/react-native/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/react-native/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/react-native/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/react-native/./fonts/SimpleLineIcons.ttf",
+    "favicon-16.png": "/react-native/favicon-16.png",
+    "favicon-32.png": "/react-native/favicon-32.png",
+    "favicon.ico": "/react-native/favicon.ico",
+    "index.html": "/react-native/index.html",
+    "manifest.json": "/react-native/manifest.json",
+    "serve.json": "/react-native/serve.json"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.2826e25f.js",
+    "static/js/2.b89ce3fe.chunk.js",
+    "static/js/app.854cd369.chunk.js"
+  ]
+}
